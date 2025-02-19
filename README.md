@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QR Code Generator App
+
+This project is a QR Code Generator built with [Next.js](https://nextjs.org). It allows users to generate QR codes for any input text or URL.
+
+## Features
+
+- Generate QR codes for text or URLs
+- Download generated QR codes as images
+- Responsive design for mobile and desktop
 
 ## Getting Started
 
